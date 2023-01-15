@@ -1,5 +1,5 @@
 
-# Movie review classification
+# Movie reviews classification
 
 This project includes classifying various  movie reviews from IMDB 
 ## Features
